@@ -20,18 +20,20 @@
 
 
 
-|**comandos alias**| **Descripcion**                            |
+|**comandos alias** | **Descripcion**                            |
 |-------------------|-------------------------------------------|
-| cl = "clear"       | Limpiar la terminal                      |
-| rm = "trash"    | Evita la perdida de archivos permanentemente|
+| cl = "clear"      | Limpiar la terminal                      |
+| rm = "trash"       | Evita la perdida de archivos permanentemente|
 | findd = "ls ~/  grep $1" | filtrar las carpetas de nuestro directorio de usuario dada una palabra.                         |
 | alias npms = "npm start"| inicia el servidor de desarrollo y abre un navegador con la aplicación.                                 |
 | alias npmt = "npm test" |  ejecuta las pruebas.               |
 
 ## Mis hobbies son:
-1. 🥑 **Aprender ingles.**
-2. 🍔 **Hacer deporte.**
+1. **Aprender ingles.**
+2. **Hacer deporte.**
 3. **Ver series.**
-4. **Aprender de otras culturas a traves de la comida.🍳**
+4. **Aprender de otras culturas a traves de la comida.🥑🍳🍔**
 
-# Muchas gracias por visitar mi perfil.😁
+### Muchas gracias por visitar mi perfil.😁
+
+<Segundo commit, en rama main>
